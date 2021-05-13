@@ -2,10 +2,10 @@
  <img height=200px src="./kjsce.jpg" alt="KJSCE">
 </p>
 
-<h1 align="center">Computer-Organization-and-Architecture</h1>
+<h1 align="center">Computer Organization and Architecture</h1>
 
 <div align="center">
-<h4> This repository contains programs written as part of 'Computer-Organization-and-Architecture' Lab during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
+<h4> This repository contains programs written as part of 'Computer Organization and Architecture' Lab during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
 </div>
 
 ------------------------------------------
