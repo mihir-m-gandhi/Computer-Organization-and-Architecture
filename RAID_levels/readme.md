@@ -21,7 +21,6 @@ RAID, short for Redundant Array of Independent Disks, are a category of disk dri
     <img src="./example-3.png">
 </p>
 
-
 ------------------------------------------
 ### Output:
 
