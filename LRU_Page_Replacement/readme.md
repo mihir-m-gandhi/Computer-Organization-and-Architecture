@@ -11,5 +11,5 @@ Write a program to implement LRU Page Replacement Algorithm. The LRU algorithm r
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg">
 </p>
