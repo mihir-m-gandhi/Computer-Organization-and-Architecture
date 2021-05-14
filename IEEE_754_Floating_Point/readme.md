@@ -18,4 +18,3 @@ Write a program to demonstrate the IEEE 754 single and double precision formats 
 <p align="center">
     <img src="./output-2.jpg">
 </p>
-
