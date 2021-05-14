@@ -1,8 +1,8 @@
-## Booth's Multiplication Algorithm
+## Restoring Division
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Booth's Multiplication Algorithm
+Write a program to implement Restoring Method of Division.
 
 <p align="center">
     <img src="./example.png">
@@ -10,6 +10,7 @@ Write a program to implement Booth's Multiplication Algorithm
 
 ------------------------------------------
 ### Output:
+
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg">
 </p>
