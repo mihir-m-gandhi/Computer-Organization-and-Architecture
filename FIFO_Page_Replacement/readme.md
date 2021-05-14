@@ -1,8 +1,8 @@
-## Booth's Multiplication Algorithm
+## FIFO Page Replacement
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Booth's Multiplication Algorithm
+Write a program to implement FIFO Page Replacement Algorithm. The FIFO algorithm uses the principle that the block in the set which has been in for the longest time will be replaced. 
 
 <p align="center">
     <img src="./example.png">
@@ -10,6 +10,7 @@ Write a program to implement Booth's Multiplication Algorithm
 
 ------------------------------------------
 ### Output:
+
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg">
 </p>
