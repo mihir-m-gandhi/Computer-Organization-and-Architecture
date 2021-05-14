@@ -10,6 +10,7 @@ Write a program to implement Booth's Multiplication Algorithm
 
 ------------------------------------------
 ### Output:
+
 <p align="center">
     <img src="./output.png">
 </p>
