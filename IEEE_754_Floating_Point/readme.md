@@ -5,11 +5,11 @@
 Write a program to demonstrate the IEEE 754 single and double precision formats to represent floating point numbers.
 
 <p align="center">
-    <img src="./example-1.jpg">
+    <img height=200px src="./example-1.jpg">
 </p>
 
 <p align="center">
-    <img src="./example-2.jpg">
+    <img height=200px src="./example-2.jpg">
 </p>
 
 ------------------------------------------
