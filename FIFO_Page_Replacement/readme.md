@@ -10,7 +10,6 @@ Write a program to implement FIFO Page Replacement Algorithm. The FIFO algorithm
 
 ------------------------------------------
 ### Output:
-
 <p align="center">
     <img src="./output.jpg">
 </p>
