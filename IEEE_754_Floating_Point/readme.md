@@ -1,8 +1,8 @@
-## Booth's Multiplication Algorithm
+## IEEE 754 Floating Point Representation
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Booth's Multiplication Algorithm
+Write a program to demonstrate the IEEE 754 single and double precision formats to represent floating point numbers.
 
 <p align="center">
     <img src="./example.png">
@@ -10,6 +10,11 @@ Write a program to implement Booth's Multiplication Algorithm
 
 ------------------------------------------
 ### Output:
+
 <p align="center">
-    <img src="./output.png">
+    <img src="./output-1.jpg">
+</p>
+
+<p align="center">
+    <img src="./output-2.jpg">
 </p>
