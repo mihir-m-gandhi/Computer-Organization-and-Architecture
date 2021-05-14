@@ -10,6 +10,7 @@ Write a program to implement Non-restoring Method of Division.
 
 ------------------------------------------
 ### Output:
+
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg">
 </p>
