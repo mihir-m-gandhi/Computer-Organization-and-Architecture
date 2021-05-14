@@ -1,8 +1,8 @@
-## Booth's Multiplication Algorithm
+## Non-restoring Division
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Booth's Multiplication Algorithm
+Write a program to implement Non-restoring Method of Division.
 
 <p align="center">
     <img src="./example.png">
